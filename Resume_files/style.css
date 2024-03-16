@@ -16,19 +16,19 @@ body {
 .container {
     position: relative;
     width: 100%;
-    max-width: 1000px;
-    min-height: 1000px;
+    max-width: 900px;
+    min-height: 600px;
     background-color: rgb(248, 230, 208);
     margin: 50px;
     box-shadow: 0 30px 30px rgba(0, 0, 0, 1);
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 0.88fr 1.8fr;
 }
 
 .left_side {
     position: relative;
     background: rgb(12, 77, 138);
-    padding: 26px;
+    padding: 25px;
 }
 
 /* PROFILE*/
@@ -39,6 +39,7 @@ body {
     align-items: flex-start;
     padding-bottom: 15px;
     border-bottom: 1.5px solid rgb(51, 51, 51);
+    padding-top: 20px;
 }
 
 .imgProfile {
@@ -50,6 +51,8 @@ body {
     border-radius: 50%;
     overflow: hidden;
     border: 3px solid #29292c;
+
+
 }
 
 #image {
@@ -59,7 +62,12 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+
 }
+
+.highlighted {
+    background-color: rgb(82, 116, 150);
+  }
 
 .profileText h2 {
     color: antiquewhite;
@@ -82,6 +90,8 @@ body {
     padding-top: 15px;
     margin-bottom: 10px;
     letter-spacing: 1px;
+    
+
 }
 
 .text {
@@ -166,7 +176,7 @@ a {
     text-transform: uppercase;
     font-size: 1.2em;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 23px;
     letter-spacing: 1px;
 }
 
@@ -181,23 +191,25 @@ a {
     /* margin: 20px 0; */
 }
 
+
 .text-link2 {
     font-size: 14px;
 }
 
 .position {
-    min-width: 156px;
-    margin-bottom: 10px;
+    min-width: 200px;
+    
+    margin-bottom: 5px;
 }
 
 .box .position h5 {
-    color: darkgrey;
+    color: rgb(164, 111, 111);
     text-transform: uppercase;
     font-weight: 600;
 }
 
 .contactEducation .box .position h5 {
-    color: rgb(52, 53, 48);
+    color: rgb(104, 109, 86);
     text-transform: uppercase;
     font-weight: 600;
 }
@@ -210,7 +222,9 @@ a {
     text-transform: uppercase;
     color: #2a7da2;
     font-size: 14px;
-    margin-bottom: 2px;
+
+
+
 }
 
 .text22 {
@@ -240,6 +254,7 @@ a {
 .hoverOverMe {
     margin-bottom: 20px;
     text-align: center;
+    color: rgb(239, 191, 88);
 }
 
 .hoverOverMe:hover {
