@@ -1,21 +1,21 @@
 # Basic Information 
-title: Yong Liu
-position: Ph.D. Student
-affiliation: Tsinghua University
-email: liuyong21@mails.tsinghua.edu.cn
+title: Wanghui Qiu
+position: Master's Student
+affiliation: East China Normal University
+email: onehui@stu.ecnu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: time seires, machine learning, deep learning, forecasting, large models
-description: Yong Liu's Academic Homepage
-canonical: https://wenweithu.github.io/
+description: onehui's Academic Homepage
+canonical: https://onejue.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=dS9HVU8AAAAJ
-cv_link: assets/files/resume_v2_YongLiu.pdf
-github_link: https://github.com/WenWeiTHU
-ORCID: https://orcid.org/0000-0001-6719-9980
+google_scholar: https://scholar.google.com/citations?user=K01XZuoAAAAJ
+cv_link: assets/files/resume_v2_onehui.pdf
+# github_link: https://github.com/onhui
+# ORCID: https://orcid.org/0000-0001-6719-9980
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
