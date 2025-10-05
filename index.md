@@ -28,5 +28,5 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 ## 👀 Visitors
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=Kjm4Zd-uz06fWWD_PHjAJjsN9m5JlhZQdGBD9fc-9Ig"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-9EeY4fWb57A66dxIPlytMAKIpTI0mi2CHbk5EgcaIM"></script>
 
