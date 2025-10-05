@@ -28,5 +28,7 @@ For more information, you may take a look at my [Google Scholar](https://scholar
 
 ## 👀 Visitors
 
+<div style="width: 200px; height: 200px; overflow: hidden;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=-9EeY4fWb57A66dxIPlytMAKIpTI0mi2CHbk5EgcaIM"></script>
+</div>
 
