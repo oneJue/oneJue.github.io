@@ -9,3 +9,12 @@ main:
     image: ./assets/img/TAB.png
 #    blog: https://mp.weixin.qq.com/s/OfZJtd3H3-TCkvBGATt0mA
     notes: PVLDB, CCF A, Accepted
+
+  - title: "Land Deformation Prediction via Multi-modal Adaptive Association Learning"
+    authors: <strong>Wanghui Qiu/strong>, Shiyan Hu, Chenjuan Guo, Wenbing Shi, Lina Yu, Ming Gao, Aoying Zhou, Bin Yang
+    conference_short: CIKM
+    conference: Conference on Information and Knowledge Management, 2026
+#    pdf: https://arxiv.org/pdf/2505.11250
+#    code: https://github.com/decisionintelligence/CS4TS
+#    blog: https://mp.weixin.qq.com/s/W2MwOZKKrD2Lj5wOgBLz0Q
+    image: ./assets/img/MAAL.png
